@@ -3,4 +3,8 @@ module.exports = {
   images: {
     domains: ["links.papareact.com", "image.tmdb.org"],
   },
+  i18n: {
+    locales: ["fr"],
+    defaultLocale: "fr",
+  },
 };
