@@ -9,4 +9,5 @@
 
 ## Preview
 
+![preview](./public/hulu.png)
 
